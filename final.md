@@ -3,7 +3,7 @@
 
 
 
-##Multiple linear regression
+## Multiple linear regression
 
 #### General Regression Models
 
@@ -188,7 +188,12 @@ T-test for a single variable is equivalent to a partial F-test when reduce only 
 
 Number of possibilities for a qualitative variable are called levels. To model $l$ levels need $l-1$ indicator variables.
 $$
-\left(x_{2}, x_{3}\right)=\left\{\begin{array}{ll}{(0,0)} & {\text { type } A \text { used }} \\ {(1,0)} & {\text { type } B \text { used }} \\ {(0,1)} & {\text { type } C \text { used. }}\end{array}\right.
+\left( x_{2}, x_{3} \right)=\left\{
+\begin{array}{ll}
+{(0,0)} & {\text { type } A \text { used }} \\ 
+{(1,0)} & {\text { type } B \text { used }} \\ 
+{(0,1)} & {\text { type } C \text { used. }}
+\end{array}\right.
 $$
 
 ---
